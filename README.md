@@ -55,22 +55,3 @@ Finally, the image classification pipeline concludes with a summary of the model
 
 ![Image](https://github.com/user-attachments/assets/ef8d4e95-6927-492b-a03c-ea6169652862)
 
-Classification Report:
-              precision    recall  f1-score   support
-
-    Airplane       0.79      0.70      0.74      1000
-  Automobile       0.81      0.84      0.83      1000
-        Bird       0.60      0.56      0.58      1000
-         Cat       0.50      0.57      0.54      1000
-        Deer       0.74      0.61      0.67      1000
-         Dog       0.60      0.66      0.63      1000
-        Frog       0.75      0.81      0.78      1000
-       Horse       0.83      0.70      0.76      1000
-        Ship       0.80      0.84      0.82      1000
-       Truck       0.75      0.81      0.78      1000
-
-    accuracy                           0.71     10000
-   macro avg       0.72      0.71      0.71     10000
-weighted avg       0.72      0.71      0.71     10000
-
-
